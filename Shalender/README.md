@@ -2,10 +2,8 @@
 Share your calendar, share your life
 
 - UCC 링크 : https://youtu.be/nsqIsUYg4ZY
-
-
-
-
+<br/>
+<br/>
 
 ## Shalendar
 ![대체텍스트](Front-End/src/components/common/images/shalendar.gif "마우스 대면 나와요")
