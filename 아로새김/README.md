@@ -141,6 +141,8 @@ $ npm run build
 
 _위 이미지를 클릭하면 영상을 볼 수 있습니다._
 
+
+
 <table width="100%">
   <tr>
     <th>메인페이지</th>
@@ -148,10 +150,10 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/UDQ29OA.gif" width="300" alt="메인페이지">
+      <img src="readme_img/main.gif" width="300" alt="메인페이지">
     </td>
     <td>
-      <img src="https://i.imgur.com/NrEVZTM.gif" width="300" alt="리스트">
+      <img src="readme_img/list.gif" width="300" alt="리스트">
     </td>
   </tr>
 </table>
@@ -163,10 +165,10 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/3D6gYYL.gif" width="300" alt="맵">
+      <img src="readme_img/mapview.gif" width="300" alt="맵">
     </td>
     <td>
-      <img src="https://i.imgur.com/I2NumLN.gif" width="300" alt="로드뷰">
+      <img src="readme_img/loadview.gif" width="300" alt="로드뷰">
     </td>
   </tr>
 </table>
@@ -178,10 +180,10 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/ciGSQcO.gif" width="300" alt="필터">
+      <img src="readme_img/filter.gif" width="300" alt="필터">
     </td>
     <td>
-      <img src="https://i.imgur.com/JT2cugf.gif" width="300" alt="새김 작성">
+      <img src="readme_img/write.gif" width="300" alt="새김 작성">
     </td>
   </tr>
 </table>
@@ -193,13 +195,14 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/fNMKvbT.gif" width="300" alt="마이페이지">
+      <img src="readme_img/mypage.gif" width="300" alt="마이페이지">
     </td>
     <td>
-      <img src="https://i.imgur.com/1WiU2sc.gif" width="300" alt="히스토리">
+      <img src="readme_img/history.gif" width="300" alt="히스토리">
     </td>
   </tr>
 </table>
+
 
 ## 팀원
 - 양찬우
