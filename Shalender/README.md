@@ -1,6 +1,12 @@
 ## CodeUs 팀프로젝트 | 일정공유 SNS
 Share your calendar, share your life
 
+- UCC 링크 : https://youtu.be/nsqIsUYg4ZY
+
+
+
+
+
 ## Shalendar
 ![대체텍스트](Front-End/src/components/common/images/shalendar.gif "마우스 대면 나와요")
 ![대체텍스트](Front-End/src/components/common/images/1.jpg "마우스 대면 나와요")
