@@ -25,6 +25,8 @@
 
 👉 당신을 <b>인싸</b>로 만들어줄 <b>잇아이템!!!</b>
 
+👉 UCC 링크 : https://youtu.be/kyyPQ6soKhM
+
 <br/><br/>
 
 #### <b style="color:#b277e8"> AI 기능</b>
