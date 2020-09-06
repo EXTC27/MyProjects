@@ -1,0 +1,86 @@
+<div class="wrapper bg-dark-white">
+	<div class="heading-banner-area overlay-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="heading-banner">
+						<div class="heading-banner-title">
+							<!--<img src="<%asset_path ='logo/Ranker.png' %>" alt="">-->
+							<!--<a href="#"><img src="<%= asset_path 'banner/5.jpg' %>" alt="" /></a>-->
+							<img src="<%= asset_path 'logo/Ranker.png' %>" alt=""/>
+							<!--<h2></h2>-->
+						</div>
+						<div class="breadcumbs pb-15">
+							<ul>
+								<li><a href="/">Home</a></li>
+								<li>Request</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="product-area pt-80 pb-80 product-style-2">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-sm-12 col-xs-12">
+	                <!-- Widget-Search start <--></-->  
+					<aside class="widget widget-search mb-30">
+						<form action="#">
+							<input type="text" placeholder="Search here..." />
+							<button type="submit">
+								<i class="zmdi zmdi-search"></i>
+							</button>
+						</form>
+					</aside>
+					<!-- Widget-search end -->
+					<!-- Widget-Categories start -->
+					<aside class="widget widget-categories  mb-30">
+						<div class="widget-title">
+						    <a href="/requests"><h4>Request</h4></a>
+						</div>
+					</aside>
+					
+					<aside class="widget widget-banner hidden-sm">
+						<div class="widget-info widget-banner-img">
+							<a href="http://www.multicampus.co.kr"><img src="<%= asset_path 'banner/add1.png' %>" alt="" /></a>
+						</div>
+					</aside>
+					
+        </div>
+        <div class="col-md-9 col-sm-12 col-xs-12">
+					<!-- tootle-Content End -->
+					<div class="shop-content mt-tab-30 mt-xs-30">
+						<!--<div class="product-option mb-30 clearfix">-->
+              <div class="elements-accordions  pt-80 pb-80">
+                <div class="tab-content">
+                  <div class="tab-pane active" id="elements-preview-1">                
+                     
+            	      <%= form_for(@request) do |f| %>
+            	      	<%= f.hidden_field :user_id, value: current_user.id %>
+                  		<%= f.label :title, '제목' %>
+               	    	<div>
+                 	   		<%= f.text_area :title, class: 'tinymce', rows: 1, cols: 50 %>
+                      	<%= tinymce %>
+                   	 	</div>
+                   	 	
+               	    	<%= f.label :content, '내용' %>
+                	  	<div>
+          	       	   <%= f.text_area :content, class: 'tinymce', rows: 10, cols: 120 %>
+            	     	   <%= tinymce %>
+                  	  </div>
+                    	
+                    	<div>
+        	            	<%= f.submit %>
+          	        	</div>
+                 		<% end %>
+                	</div>
+              	</div>
+            	</div>
+          </div>
+        </div>
+      </div>
+    </div>
+	</div>
+</div>	

@@ -1,0 +1,180 @@
+
+			<!-- SLIDER-BANNER-AREA START -->
+			<section class="slider-banner-area clearfix">
+				<!-- Sidebar-social-media start -->
+				
+				<!-- Sidebar-social-media end -->
+				<div class="banner-left floatleft">
+					<!-- Slider-banner start -->
+					<div class="slider-banner">
+						<!--<div class="single-banner banner-1">-->
+							<% r_count = 0 %>
+							<% c_count = 0 %>
+							<% @elements.order(:average).reverse_order.each do |e| %>
+								<% if e.subject_id == 1 %>
+									<% r_count = r_count + 1 %>
+									<% if r_count == 1 %>
+										<div class="single-banner banner-1">
+										<a href="/category/show/<%=e.id%>"><img src="<%= e.img.thumb.url %>" alt="" /></a>
+										<span class="pro-label new-label hidden-md">1위</span>
+										</div>	
+									<% else %>
+										<% next %>
+									<% end %>
+								<% elsif e.subject_id == 2 %>
+									<% c_count = c_count + 1 %>
+									<% if c_count == 1 %>
+										<div class="single-banner banner-2">
+										<a href="/category/show/<%=e.id%>"><img src="<%= e.img.thumb.url %>" alt="" /></a>
+										<span class="pro-label new-label hidden-md">1위</span>
+										</div>
+									<% else %>
+										<% next %>
+									<% end %>
+								<% end %>
+							<% end %>
+						<!--</div>-->
+					</div>
+					<!-- Slider-banner end -->
+				</div>
+				<div class="slider-right floatleft">
+					<!-- Slider-area start -->
+					<div class="slider-area">
+						<div class="bend niceties preview-2">
+							<div id="ensign-nivoslider" class="slides">
+								<img src="<%= asset_path 'slider/slider-1/1.jpg' %>" alt="" title="#slider-direction-1"  />
+								<img src="<%= asset_path 'slider/slider-1/2.jpg' %>" alt="" title="#slider-direction-2"  />
+								
+							</div>
+							<!-- direction 1 -->
+							<div id="slider-direction-1" class="t-cn slider-direction">
+								<div class="slider-progress"></div>
+								<div class="slider-content t-lfl s-tb slider-1">
+									<div class="title-container s-tb-c title-compress">
+										<div class="layer-1">
+											<div class="wow fadeInUpBig" data-wow-duration="1.5s" data-wow-delay="0.5s">
+												<h2 class="slider-title1 text-uppercase mb-0">New Rank!</h2>
+											</div>
+											<div class="wow fadeInUpBig" data-wow-duration="2.5s" data-wow-delay="0.5s">
+												<a href="#" class="button-one style-2 text-uppercase mt-20" data-text="Shop now">Show now</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- direction 2 -->
+							<div id="slider-direction-2" class="slider-direction">
+								<div class="slider-progress"></div>
+								<div class="slider-content t-lfl s-tb slider-1">
+									<div class="title-container s-tb-c title-compress">
+										<div class="layer-1">
+											<div class="wow fadeInUpBig" data-wow-duration="1.5s" data-wow-delay="0.5s">
+												<h2 class="slider-title1 text-uppercase mb-0" >New Rank!</h2>
+											</div>
+											<div class="wow fadeInUpBig" data-wow-duration="2.5s" data-wow-delay="0.5s">
+												<a href="#" class="button-one style-2 text-uppercase mt-20" data-text="Shop now">Show now</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- direction 3 -->
+						</div>
+					</div>
+					<!-- Slider-area end -->
+				</div>
+				<!-- Sidebar-social-media start -->
+				
+				<!-- Sidebar-social-media start -->
+			</section>
+			<!-- End Slider-section -->
+			<!-- sidebar-search Start -->
+			<div class="sidebar-search animated slideOutUp">
+				<div class="table">
+					<div class="table-cell">
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2 p-0">
+									<div class="search-form-wrap">
+										<button class="close-search"><i class="zmdi zmdi-close"></i></button>
+										<form action="#">
+											<input type="text" placeholder="Search here..." />
+											<button class="search-button" type="submit">
+												<i class="zmdi zmdi-search"></i>
+											</button>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- sidebar-search End -->
+			
+			<!-- QUICKVIEW PRODUCT -->
+			<div id="quickview-wrapper">
+			   <!-- Modal -->
+			   <div class="modal fade" id="productModal" tabindex="-1" role="dialog">
+					<div class="modal-dialog" role="document">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							</div>
+							<div class="modal-body">
+								<div class="modal-product">
+									<div class="product-images">
+										<div class="main-image images">
+											<img alt="#" src="<%= asset_path 'product/quickview-photo.jpg' %>"/>
+										</div>
+									</div><!-- .product-images -->
+
+									<div class="product-info">
+										<h1>Aenean eu tristique</h1>
+										<div class="price-box-3">
+											<hr />
+											<div class="s-price-box">
+												<span class="new-price">$160.00</span>
+												<span class="old-price">$190.00</span>
+											</div>
+											<hr />
+										</div>
+										<a href="shop.html" class="see-all">See all features</a>
+										<div class="quick-add-to-cart">
+											<form method="post" class="cart">
+												<div class="numbers-row">
+													<input type="number" id="french-hens" value="3">
+												</div>
+												<button class="single_add_to_cart_button" type="submit">Add to cart</button>
+											</form>
+										</div>
+										<div class="quick-desc">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero.
+										</div>
+										<div class="social-sharing">
+											<div class="widget widget_socialsharing_widget">
+												<h3 class="widget-title-modal">Share this product</h3>
+												<ul class="social-icons">
+													<li><a target="_blank" title="Google +" href="#" class="gplus social-icon"><i class="zmdi zmdi-google-plus"></i></a></li>
+													<li><a target="_blank" title="Twitter" href="#" class="twitter social-icon"><i class="zmdi zmdi-twitter"></i></a></li>
+													<li><a target="_blank" title="Facebook" href="#" class="facebook social-icon"><i class="zmdi zmdi-facebook"></i></a></li>
+													<li><a target="_blank" title="LinkedIn" href="#" class="linkedin social-icon"><i class="zmdi zmdi-linkedin"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div><!-- .product-info -->
+								</div><!-- .modal-product -->
+							</div><!-- .modal-body -->
+						</div><!-- .modal-content -->
+					</div><!-- .modal-dialog -->
+			   </div>
+			   <!-- END Modal -->
+			</div>
+			<!-- END QUICKVIEW PRODUCT -->
+		</div>
+		<!-- WRAPPER END -->
+
+
+<% content_for 'javascript_content' do %>
+	<%= javascript_include_tag controller_name %>
+<% end %>

@@ -1,0 +1,148 @@
+<!--<%= @elements.each do |e| %>-->
+<!--	<img src="<%=e.img%>" alt=""/>-->
+<!--<% end %>-->
+<!-- WRAPPER START -->
+		<div class="wrapper bg-dark-white">
+			<!-- Mobile-menu end -->
+			<!-- HEADING-BANNER START -->
+			<div class="heading-banner-area overlay-bg">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="heading-banner">
+								<div class="heading-banner-title">
+									<!--<img src="<%asset_path ='logo/Ranker.png' %>" alt="">-->
+									<!--<a href="#"><img src="<%= asset_path 'banner/5.jpg' %>" alt="" /></a>-->
+									<img src="<%= asset_path 'logo/Ranker.png' %>" alt=""/>
+									<!--<h2></h2>-->
+								</div>
+								<div class="breadcumbs pb-15">
+									<ul>
+										<li><a href="/">Home</a></li>
+										<li>Product grid view</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- HEADING-BANNER END -->
+			<!-- PRODUCT-AREA START -->
+			<div class="product-area pt-80 pb-80 product-style-2">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-sm-12 col-xs-12">
+							<!-- Widget-Search start -->
+							<aside class="widget widget-search mb-30">
+								<form action="#">
+									<input type="text" placeholder="Search here..." />
+									<button type="submit">
+										<i class="zmdi zmdi-search"></i>
+									</button>
+								</form>
+							</aside>
+							<!-- Widget-search end -->
+							
+							<!-- Widget-Categories start -->
+							<aside class="widget widget-categories  mb-30">
+								<div class="widget-title">
+									<a href="/category"><h4>Category</h4></a>
+								</div>
+								<div id="cat-treeview" class="widget-info product-cat boxscrol2">
+									<ul>
+										<% @subjects.each do |s| %>
+											<li>
+												<a href="/category/index?s_id=<%=s.id%>"><%= s.name %></a>
+												<ul>
+													<% @details.each do |d| %>
+														<% if d.subject == s %>
+															<li><a href="/category/index?d_id=<%=d.id%>"><%= d.name %></a></li>
+														<% end %>
+													<% end %>
+												</ul>
+											</li>
+										<% end %>
+									</ul>
+								</div>
+							</aside>
+							
+							<aside class="widget widget-banner hidden-sm">
+								<div class="widget-info widget-banner-img">
+									<a href="https://likelion.net/"><img src="<%= asset_path 'banner/add1.png' %>" alt="" /></a>
+								</div>
+							</aside>
+							<!-- Widget-banner end -->
+						</div>
+						<div class="col-md-9 col-sm-12 col-xs-12">
+							<div class="shop-content mt-tab-30 mt-xs-30">
+								
+								<!--<div class="product-option mb-30 clearfix">-->
+									<!-- Nav tabs -->
+								<!--	<ul class="shop-tab">-->
+								<!--		<li class="active"><a href="#grid-view" data-toggle="tab"><i class="zmdi zmdi-view-module"></i></a></li>-->
+								<!--		<li><a href="#list-view"  data-toggle="tab"><i class="zmdi zmdi-view-list"></i></a></li>-->
+								<!--	</ul>-->
+								<!--	<div class="showing text-right hidden-xs">-->
+								<!--		<p class="mb-0">Showing 01-09 of 17 Results</p>-->
+								<!--	</div>-->
+								<!--</div>-->
+								
+								<!-- Tab panes -->
+								<div class="tab-content">
+									<div class="tab-pane active" id="grid-view">							
+										<div class="row">
+											<!-- Single-product start -->
+											<% count = 0 %>
+											<% @elements.order(:average).reverse_order.each do |e| %>
+												<% count = count + 1 %>
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product">
+														<div class="product-img">
+															<span class="pro-label sale-label"><%= count %></span>
+															<span class="pro-price-2"></span>
+															<a href="/category/show/<%=e.id%>"><img src="<%= e.img.thumb.url %>" alt="" /></a>
+														</div>
+														<div class="product-info clearfix text-center">
+															<div class="fix">
+																<h4 class="post-title"><a href="#"><%= e.name %></a></h4>
+															</div>
+															<div class="fix">
+																<span class="pro-rating">
+																	<a href="#"><i class="zmdi zmdi-star"> <%= e.average %></i></a>
+																</span>
+															</div>
+														</div>
+													</div>
+												</div>
+											<% end %>
+										</div>
+									</div>
+								</div>
+								
+								<!-- Pagination start -->
+								<div class="shop-pagination  text-center">
+									<div class="pagination">
+										<ul>
+											<li><a href="#"><i class="zmdi zmdi-long-arrow-left"></i></a></li>
+											<li class="active"><a href="#">01</a></li>
+											<li><a href="#">02</a></li>
+											<li><a href="#">03</a></li>
+											<li><a href="#">04</a></li>
+											<li><a href="#">05</a></li>
+											<li><a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a></li>
+										</ul>
+									</div>
+								</div>
+								<!-- Pagination end -->
+								
+							</div>
+							<!-- Shop-Content End -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- PRODUCT-AREA END -->
+		</div>
+		<!-- WRAPPER END -->
+		

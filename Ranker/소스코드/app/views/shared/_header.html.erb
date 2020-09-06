@@ -1,0 +1,181 @@
+
+		<!-- WRAPPER START -->
+		<div class="wrapper">
+			<!-- Mobile-header-top Start -->
+			<div class="mobile-header-top hidden-lg hidden-md hidden-sm">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12">
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Mobile-header-top End -->
+			<!-- HEADER-AREA START -->
+			<header id="sticky-menu" class="header">
+				<div class="header-area">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-sm-4 col-sm-offset-4 col-xs-7">
+								<div  align="center" class="logo text-center">
+									<a href="/"><img src="<%= asset_path 'logo/logo.png' %>" alt="" /></a>
+								</div>
+							</div>
+							<div class="col-sm-4 col-xs-5">
+								<div class="table">
+									<div style ="font-size:1.4em" align="center" class="table-cell">
+										<ul>
+											<!--<li><a href="/users/login" >Login<i class="zmdi zmdi-lock"></i></a></li>-->
+											<% if user_signed_in? %>
+												<li><%= link_to "LogOut ", destroy_user_session_path, method: :delete %><i class="zmdi zmdi-lock-open"></i></li>
+											<% else %>
+												<li><a href="/users/sign_in" > Login <i class="zmdi zmdi-lock"></i></a></li>
+											<% end %>
+											<li><a class="search-open" href="#">  Search <i class="zmdi zmdi-search"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- MAIN-MENU START -->
+				<div class="menu-toggle hamburger hamburger--emphatic hidden-xs">
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</div>
+				<div class="main-menu  hidden-xs">
+					<nav>
+						<ul>
+							<li><a href="/">Home</a></li>
+                            <li><a href="/category">Category</a>
+                                <div class="sub-menu menu-scroll">
+                                    <ul>
+                                        <!--<li class="menu-title">List</li>-->
+                                        <div id="cat-treeview" class="widget-info product-cat boxscrol2">
+                                        	<% @subjects.each do |s| %>
+												<li>
+													<a href='/category/index?s_id=<%=s.id%>'><%= s.name %></a>
+													<ul>
+														<% @details.each do |d| %>
+															<% if d.subject == s %>
+																<li><a href="/category/index?d_id=<%=d.id%>'"><%= d.name %></a></li>
+															<% end %>
+														<% end %>
+													</ul>
+												</li>
+											<% end %>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><%= link_to 'request', requests_path %></li>
+                            <!--<li><a href="#">request</a></li>-->
+							<!--<li><a href="shop-sidebar.html">accesories</a></li>-->
+							<!--<li><a href="shop-list.html">lookbook</a></li>-->
+							<!--<li><a href="blog.html">blog</a></li>-->
+							<!--<li><a href="#">pages</a>-->
+							<!--	<div class="sub-menu menu-scroll">-->
+							<!--		<ul>-->
+							<!--			<li class="menu-title">Page's</li>-->
+							<!--			<li><a href="shop.html">Shop</a></li>-->
+							<!--			<li><a href="shop-sidebar.html">Shop Sidebar</a></li>-->
+							<!--			<li><a href="shop-grid-right-sidebar.html">Shop Right Sidebar</a></li>-->
+							<!--			<li><a href="shop-list.html">Shop List</a></li>-->
+							<!--			<li><a href="shop-list-right-sidebar.html">Shop List right sidebar</a></li>-->
+							<!--			<li><a href="single-product.html">Single Product</a></li>-->
+							<!--			<li><a href="single-product-sidebar.html">Single Product Sidebar</a></li>-->
+							<!--			<li><a href="cart.html">Shopping Cart</a></li>-->
+							<!--			<li><a href="wishlist.html">Wishlist</a></li>-->
+							<!--			<li><a href="checkout.html">Checkout</a></li>-->
+							<!--			<li><a href="order.html">Order</a></li>-->
+							<!--			<li><a href="/users/sign_in">login / Registration</a></li>-->
+							<!--			<li><a href="my-account.html">My Account</a></li>-->
+							<!--			<li><a href="404.html">404</a></li>-->
+							<!--			<li><a href="blog.html">Blog</a></li>-->
+							<!--			<li><a href="single-blog.html">Single Blog</a></li>-->
+							<!--			<li><a href="single-blog-sidebar.html">Single Blog Sidebar</a></li>-->
+							<!--			<li><a href="about.html">About Us</a></li>-->
+							<!--			<li><a href="contact.html">Contact</a></li>-->
+							<!--		</ul>-->
+							<!--	</div>-->
+							<!--</li>-->
+							<li><a href="about.html">about us</a></li>
+							<li><a href="contact.html">contact</a></li>
+						</ul>
+					</nav>
+				</div>
+				<!-- MAIN-MENU END -->
+			</header>
+			<!-- HEADER-AREA END -->
+			<!-- Mobile-menu start -->
+			<div class="mobile-menu-area">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-xs-12 hidden-lg hidden-md hidden-sm">
+							<div class="mobile-menu">
+								<nav id="dropdown">
+									<ul>
+										<li><a href="/">Home</a></li>
+			                            <li><a href="/category">Category</a>
+			                                <div class="sub-menu menu-scroll">
+			                                    <ul>
+			                                        <!--<li class="menu-title">List</li>-->
+			                                        <div id="cat-treeview" class="widget-info product-cat boxscrol2">
+			                                        	<% @subjects.each do |s| %>
+																									<li>
+																										<a href="/category/index?s_id=<%=s.id%>"><%= s.name %></a>
+																										<ul>
+																											<% @details.each do |d| %>
+																												<% if d.subject == s %>
+																													<li><a href="/category/index?d_id=<%=d.id%>"><%= d.name %></a></li>
+																												<% end %>
+																											<% end %>
+																										</ul>
+																									</li>
+																								<% end %>
+			                                        </div>
+			                                    </ul>
+			                                </div>
+			                            </li>
+			                            <li><a href="/requests">request</a></li>
+										<!--<li><a href="shop-sidebar.html">accesories</a></li>-->
+										<!--<li><a href="shop-list.html">lookbook</a></li>-->
+										<!--<li><a href="blog.html">blog</a></li>-->
+										<!--<li><a href="#">pages</a>-->
+										<!--	<div class="sub-menu menu-scroll">-->
+										<!--		<ul>-->
+										<!--			<li class="menu-title">Page's</li>-->
+										<!--			<li><a href="shop.html">Shop</a></li>-->
+										<!--			<li><a href="shop-sidebar.html">Shop Sidebar</a></li>-->
+										<!--			<li><a href="shop-grid-right-sidebar.html">Shop Right Sidebar</a></li>-->
+										<!--			<li><a href="shop-list.html">Shop List</a></li>-->
+										<!--			<li><a href="shop-list-right-sidebar.html">Shop List right sidebar</a></li>-->
+										<!--			<li><a href="single-product.html">Single Product</a></li>-->
+										<!--			<li><a href="single-product-sidebar.html">Single Product Sidebar</a></li>-->
+										<!--			<li><a href="cart.html">Shopping Cart</a></li>-->
+										<!--			<li><a href="wishlist.html">Wishlist</a></li>-->
+										<!--			<li><a href="checkout.html">Checkout</a></li>-->
+										<!--			<li><a href="order.html">Order</a></li>-->
+										<!--			<li><a href="/users/sign_in">login / Registration</a></li>-->
+										<!--			<li><a href="my-account.html">My Account</a></li>-->
+										<!--			<li><a href="404.html">404</a></li>-->
+										<!--			<li><a href="blog.html">Blog</a></li>-->
+										<!--			<li><a href="single-blog.html">Single Blog</a></li>-->
+										<!--			<li><a href="single-blog-sidebar.html">Single Blog Sidebar</a></li>-->
+										<!--			<li><a href="about.html">About Us</a></li>-->
+										<!--			<li><a href="contact.html">Contact</a></li>-->
+										<!--		</ul>-->
+										<!--	</div>-->
+										<!--</li>-->
+										<li><a href="about.html">about us</a></li>
+										<li><a href="contact.html">contact</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Mobile-menu end -->

@@ -1,0 +1,131 @@
+
+<div class="product-area single-pro-area pt-80 pb-80 product-style-2">
+				<div class="container">	
+					<div class="row shop-list single-pro-info no-sidebar">
+						<!-- Single-product start -->
+						<div class="col-lg-12">
+							<div class="single-product clearfix">
+								<!-- Single-pro-slider Big-photo start -->
+								<div class="single-pro-slider single-big-photo view-lightbox slider-for">
+									<div>
+										<img src="<%= @element.img.url %>" alt="" />
+										<a class="view-full-screen" href="img/single-product/large/1.jpg"  data-lightbox="roadtrip" data-title="My caption">
+											<i class="zmdi zmdi-zoom-in"></i>
+										</a>
+									</div>
+									
+								</div>	
+								<!-- Single-pro-slider Big-photo end -->								
+								<div class="product-info">
+									<div class="fix">
+										<h4 class="post-title floatleft"><%= @element.name %></h4>
+										<span class="pro-rating floatright">
+											<% if !(@element.estimations.average(:saticification)) %>
+												<span style="font-size:15px; font-weight:bold;"> 0 </span>
+											<% else %>
+												<span style="font-size:15px; font-weight:bold;"><%= @element.estimations.average(:saticification) %></span>
+											<% end %>
+											
+											<span style="font-size:15px; font-weight:bold;">( <%= @element.estimations.count %> Rating )</span>
+										</span>
+									</div>
+									<br /><br />
+									<div class="product-description">
+										<% if !(@element.info) %>
+											<p style="font-size:15px;"><%= "." %></p>
+										<% else %>
+											<p style="font-size:15px;"><%= @element.info.gsub(/\n/, '<br/>').html_safe %></p>
+										<% end %>
+									</div>
+									
+								</div>
+							</div>
+						</div>
+						<!-- Single-product end -->
+					</div>
+					<!-- single-product-tab start -->
+					<div class="single-pro-tab">
+						<div class="row">
+							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+								<div class="single-pro-tab-menu">
+									<!-- Nav tabs -->
+									<ul class="">
+										<li class="active"><a href="#reviews"  data-toggle="tab">Reviews</a></li>
+										<li><a href="/category/index">Back to list</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+								<!-- Tab panes -->
+								<div class="tab-content">
+									
+									<div class="tab-pane active" id="reviews">
+										<div class="pro-tab-info pro-reviews">
+											<div class="customer-review mb-60">
+												<h3 class="tab-title title-border mb-30">Customer review</h3>
+												<ul class="product-comments clearfix">
+													<li class="mb-30">
+														<!--<div class="pro-reviewer-comment">-->
+															<div class="fix">
+																<div class="floatleft mbl-center">
+																	<% count = 0 %>
+																	<% @estimations.each do |estimation| %>
+																		<% count = count + 1 %>
+																		<h5 class="text-uppercase mb-0"><strong><%= count %>. <%= estimation.user.get_id %></strong></h5>
+																		  <div class="stars">
+																		    <% 5.downto(1).each do |num| %>
+																		      <input class="star star-<%=num%>" type="radio" 
+																		        <%= (num == estimation.saticification) ? checked="checked" : '' %>
+																		      />
+																		      <label class="star small-star star-<%=num%>"></label>
+																		  <% end %>
+																	  </div>
+																		<p class="reply-date"><%= estimation.created_at %></p>
+
+																		  
+																		<p class="mb-0">
+																			<%= estimation.comment %>
+																		</p>
+																		<br />
+																	<% end %>
+																</div>
+															</div>
+														<!--</div>-->
+													</li>
+												</ul>
+											</div>
+											<div class="leave-review">
+												<h3 class="tab-title title-border mb-30">Leave your reviw</h3>
+												<div class="reply-box">
+													<%= form_for [@element, @estimation] do |f| %> 
+														
+														<div class="row">
+															<div class="col-md-12">
+																<p class="mb-10"><strong>Your Rating</strong></p>
+															  <div class="stars" style="margin-left: -65px;">
+															    <% 5.downto(1).each do |num| %>
+															      <input class="star star-<%=num%>" id="star-<%=num%>" type="radio" name="estimation[saticification]" value="<%=num%>"/>
+															      <label class="star big-star star-<%=num%>" for="star-<%=num%>"></label>
+															    <% end %>
+															  </div>
+														  </div>
+															<div class="row">
+																<div class="col-md-12">
+																	<%= f.text_area :comment, class: "custom-textarea", placeholder: "Your review here..."%>																
+																	<%= f.button 'submit review', type: 'submit','data-text': "submit review", class: "button-one submit-button mt-20" %>
+																</div>
+															</div>
+														</div>
+													<% end %>
+												</div>
+											</div>
+										</div>		
+									</div>
+								</div>									
+							</div>
+						</div>
+					</div>
+					<!-- single-product-tab end -->
+				</div>
+			</div>
+			<!-- PRODUCT-AREA END -->
