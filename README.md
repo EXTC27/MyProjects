@@ -5,7 +5,7 @@
 - 대학생시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들을 저장한 Repository입니다.
   - <span style="color:red">다만 자료가 유실된 프로젝트는 업로드 하지않음.</span>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -19,8 +19,8 @@
 
   - 요약 : 위치기반 추억 새김 및 공유 SNS  
   - 관련 링크
-    - UCC : 
-    - Demo : 
+    - UCC : https://youtu.be/my_MnjhNYkQ
+    - Demo : https://youtu.be/4CNSNMSKAbE
     - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
   - 분야 : Web/App (App base)
   - 인원 : 5인
@@ -74,7 +74,7 @@
   - 담당 : 문자열 처리, 투표수 집계
   - 사용 언어 : Python, JavaScript, HTML, CSS
   - 상세 : 
-  - <span style='color:red'>웹 관련 소스코드 유실</span>
+  - **<span style='color:red'>웹 관련 소스코드 유실</span>**
 
   
 
@@ -86,7 +86,7 @@
   - 담당 :  Front-End, Back-End 전반
   - 사용 언어 : JAVA, JavaScript, HTML, CSS 
   - 기술 스택 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js
-  - <span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 상세 설명 및 소스코드를 업로드 하지 않음.</span>
+  - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 상세 설명 및 소스코드를 업로드 하지 않음.</span>**
 
 
 
@@ -98,9 +98,7 @@
   - 담당 : 크롤링, 검색 알고리즘
   - 상세 : 
 
-
-
-<br/><br/>
+<br/>
 
 ---
 
@@ -114,7 +112,7 @@
 
 - #### **아파트 자동문 시스템**
 
-
+<br/>
 
 ---
 
@@ -126,7 +124,7 @@
 
 
 
-- #### **영상처리 알고리즘**
+- #### **영상 전처리 알고리즘**
 
   - '영상처리' 텀 프로젝트
 
@@ -159,5 +157,5 @@
 - #### **라인트레이서**
 
   - '기초공학설계' 텀 프로젝트
-  - <span style="color:red">자료 유실로 인해 업로드 하지않음</span>
+  - **<span style="color:red">자료 유실로 인해 업로드 하지않음</span>**
 
