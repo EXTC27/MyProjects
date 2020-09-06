@@ -2,8 +2,8 @@
 
 # MyProjects
 
-- 대학생시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들을 저장한 Repository입니다.
-  - <span style="color:red">다만 자료가 유실된 프로젝트는 업로드 하지않음.</span>
+- 대학생시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 소스를 저장한 Repository입니다.
+  - <span style="color:red">다만 파일이 유실된 프로젝트는 업로드 하지않음.</span>
 
 <br/>
 
