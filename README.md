@@ -1,5 +1,3 @@
-[TOC]
-
 # MyProjects
 
 - 대학생시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 소스를 저장한 Repository입니다.
