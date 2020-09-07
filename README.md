@@ -106,7 +106,7 @@
 
 - #### **Chatpot (챗팟)**
 
-- #### **Smart Car AtoZ**
+- #### **Automobile A to Z**
 
   - **<span style="color:red">소스코드 유실로 인해 업로드 하지않음</span>**
 
