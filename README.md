@@ -1,7 +1,7 @@
 # MyProjects
 
-- 대학생시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 소스를 저장한 Repository입니다.
-  - <span style="color:red">다만 파일이 유실된 프로젝트는 업로드 하지않음.</span>
+- 대학시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 파일을 저장한 Repository입니다.
+  - <span style="color:red">모든 파일이 유실된 프로젝트는 업로드 하지않음.</span>
 
 <br/>
 
@@ -110,7 +110,7 @@
 
 - #### **Automobile A to Z**
 
-  - **<span style="color:red">소스코드 유실로 인해 업로드 하지않음</span>**
+  - **<span style="color:red">자료 유실로 인해 업로드 하지않음</span>**
 
 - #### **아파트 자동문 시스템**
 
@@ -135,14 +135,14 @@
 - #### **Ultrasonic Ruler** 
   
   - '하드웨어설계' 텀 프로젝트
-  - **<span style="color:red">Report 내부에 소스코드 기제</span>**
+  - **<span style="color:red">소스코드 일부 유실</span>**
 
 
 
 - #### **신호등 시스템**
 
   - '디지털논리회로' 텀 프로젝트
-  - **<span style="color:red">Report 내부에 소스코드 기제</span>**
+  - **<span style="color:red">소스코드 유실</span>**
 
 
 
@@ -155,5 +155,5 @@
 - #### **라인트레이서**
 
   - '기초공학설계' 텀 프로젝트
-  - **<span style="color:red">소스코드 유실로 인해 업로드 하지않음</span>**
+  - **<span style="color:red">자료 유실로 인해 업로드 하지않음</span>**
 
