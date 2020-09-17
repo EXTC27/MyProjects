@@ -84,6 +84,7 @@
   - 담당 :  Front-End, Back-End 전반
   - 사용 언어 : JAVA, JavaScript, HTML, CSS 
   - 기술 스택 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js
+  - 협업 툴 : GitLab
   - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 상세 설명 및 소스코드를 업로드 하지 않음.</span>**
 
 
