@@ -20,7 +20,7 @@
     - UCC : https://youtu.be/my_MnjhNYkQ
     - Demo : https://youtu.be/4CNSNMSKAbE
     - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
-  - 분야 : Web/App (App base)
+  - 분야 : Web
   - 인원 : 5인
   - 담당 :  Front-End
   - 사용 언어 : JAVA, JavaScript, HTML, CSS
@@ -36,7 +36,7 @@
   - 요약 : AI 기반 포토에디터
   - 관련 링크
     - UCC : https://youtu.be/kyyPQ6soKhM
-  - 분야 :  Web/App (App base)
+  - 분야 :  Web
   - 인원 : 6인
   - 담당 : Front-End, 객체 인식 AI 기능구현
   - 사용 언어 : Python, JavaScript, HTML, CSS
@@ -133,12 +133,14 @@
 - #### **Ultrasonic Ruler** 
   
   - '하드웨어설계' 텀 프로젝트
+  - **<span style="color:red">Report 내부에 소스코드 기제</span>**
 
 
 
 - #### **신호등 시스템**
 
   - '디지털논리회로' 텀 프로젝트
+  - **<span style="color:red">Report 내부에 소스코드 기제</span>**
 
 
 

@@ -1,3 +1,3 @@
 # Ranker
 
-- Ranker final report를 참고해 주세요.
+- Ranker Final Report를 참고해 주세요.
