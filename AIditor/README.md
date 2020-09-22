@@ -1,8 +1,9 @@
 # <b style="color: #8989f5">AIditor</b>
 <div align="center">
     <h3>" 당신을 위한 SNS AI 서포터 📷 <b style="color: #b277e8">AIditor(아이디터)</b>를 소개합니다. "</h3>
-    <img src="images/Main.gif"></img>
+    <img src="readme_img/Main.gif"></img>
 </div>
+
 
 
 <br/><br/>
@@ -46,11 +47,11 @@
   <br/>
 
 
-  ![image-filter](images/tag1.PNG)
+  ![image-filter](readme_img/tag1.PNG)
 
-  ![image-filter](images/tag2.PNG)
+  ![image-filter](readme_img/tag2.PNG)
 
-  ![image-filter](images/tag3.PNG)
+  ![image-filter](readme_img/tag3.PNG)
 
 
 
@@ -62,9 +63,9 @@
 <b style="color: #8989f5">객체선택  - 원하는 특정 영역만 필터 및 효과 적용</b>
 
 
-![image-filter](images/segment.PNG)
+![image-filter](readme_img/segment.PNG)
 
-![image-filter](images/segment2.PNG)
+![image-filter](readme_img/segment2.PNG)
 
 <br/>
 
@@ -78,13 +79,12 @@
 
   - 원하지 않는 얼굴은 직접 선택하여 블러 제거 가능
 
-    
     <div align="center">
-        <img src="images/blur.PNG"></img>
+        <img src="readme_img/blur.PNG"></img>
     </div>
   
-
   
+
 
 <br/><br/><br/>
 
@@ -92,13 +92,13 @@
 
 + <b>사진 자르기</b>
 
-  ![image-filter](images/crop.PNG)
+  ![image-filter](readme_img/crop.PNG)
 
   <br/><br/>
 
 + <b>사진 회전</b>
 
-  ![rotate](images/rotate.PNG)
+  ![rotate](readme_img/rotate.PNG)
 
   <br/><br/>
 
@@ -108,7 +108,7 @@
   
   + 무려 <b>30</b>개의 <b style="color:#C00000">HOT</b>한 필터 제공!!
   
-    ![image-filter](images/filter.PNG)
+    ![image-filter](readme_img/filter.PNG)
   
   <br/><br/>
   
@@ -133,9 +133,8 @@
 
 <br/>
 
-
 <div align="center">
-    <img src="images/instagram.PNG"></img>
+    <img src="readme_img/instagram.PNG"></img>
 </div>
 
 <br/>
@@ -188,7 +187,7 @@ S02P22A301-4 | DONE | 스켈레톤 코드 다운로드 및 clone
 
 <br/>
 
-![image](images/skill2.PNG)
+![image](readme_img/skill2.PNG)
 
 <br/>
 
@@ -198,5 +197,5 @@ S02P22A301-4 | DONE | 스켈레톤 코드 다운로드 및 clone
 
 ### <b>:calendar: Develop process</b>
 
-![plan](images/date.PNG)
+![plan](readme_img/date.PNG)
 
