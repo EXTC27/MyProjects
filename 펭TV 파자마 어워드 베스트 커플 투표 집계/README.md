@@ -71,9 +71,9 @@
 
 ---
 <div style="text-align:center">
-<img src="readme_img/image-20201002163337468.png" alt="image-20201002163337468" style="zoom:150%;" />
-
-<img src="readme_img/image-20201002163352811.png" alt="image-20201002163352811" style="zoom:150%;" />
-
+	<img src="readme_img/image-20201002163337468.png" alt="image-20201002163337468" style="zoom:150%;" />
+<div/>	
+<div style="text-align:center">
+    <img src="readme_img/image-20201002163352811.png" alt="image-20201002163352811" style="zoom:150%;" />
 <div/>
 
