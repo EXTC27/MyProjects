@@ -1,4 +1,4 @@
-# MyProjects
+# MyProjects (작성중)
 
 - 대학시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 파일을 저장한 Repository입니다.
   - <span style="color:red">파일 전체가 유실된 프로젝트는 업로드 하지않음.</span>
@@ -7,11 +7,11 @@
 
 ---
 
-## 수행 프로젝트 목록 (최근순)
+## 수행 프로젝트 목록 (최신순)
 
 
 
-### 삼성 청년 SW 아카데미 (SSAFY)
+### 삼성 청년 SW 아카데미 (SSAFY) 2기
 
 - #### **아로새김**
 
@@ -23,10 +23,9 @@
   - 분야 : Web
   - 인원 : 5인
   - 담당 :  Front-End
-  - 사용 언어 : JAVA, JavaScript, HTML, CSS
-  - 기술 스택 : AWS, Spring, JPA, React.js, Docker, PWA
-  - 협업 툴 : GitLab, JIRA, Notion, Webex, Zoom
-  - 상세 : 
+  - 사용 언어 : Java, JavaScript, HTML, CSS
+  - 기술 스택 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
+  - 협업 툴 : GitLab, Jira, Notion, Webex, Zoom 
   - 결과 : SSAFY 심화 프로젝트 우수상 수상
 
 
@@ -40,9 +39,8 @@
   - 인원 : 6인
   - 담당 : Front-End, 객체 인식 AI 기능구현
   - 사용 언어 : Python, JavaScript, HTML, CSS
-  - 기술 스택 : AWS, Flask, React.js, Tensorflow, PWA
-  - 협업 툴 : GitLab, JIRA, Zoom
-  - 상세 : 
+  - 기술 스택 : React, AWS, Flask, Tensorflow 등
+  - 협업 툴 : GitLab, Jira, Zoom
   - 결과 : SSAFY 특화 프로젝트 우수상, UCC 우수상 수상
 
 
@@ -55,23 +53,24 @@
   - 분야 :  Web
   - 인원 : 6인
   - 담당 : Front-End
-  - 사용 언어 : JAVA, JavaScript, TypeScript, HTML, CSS
-  - 기술 스택 : AWS, Spring, JPA, React.js
-  - 협업 툴 : GitLab, JIRA
-  - 상세 : 
+  - 사용 언어 : Java, JavaScript, TypeScript, HTML, CSS
+  - 기술 스택 : React, AWS, Spring boot, JPA, MySQL 등
+  - 협업 툴 : GitLab, Jira
   - 결과 : SSAFY 공통 프로젝트 우수상
 
 
 
-- #### **펭수 베스트 커플 투표 집계** 
+- #### **펭TV 파자마 어워드 베스트 커플 투표 집계** 
 
-  - 요약 : 펭수 베스트 커플 투표 집계
+  - 요약 : 자이언트 펭TV 베스트 커플 투표 집계
   - 관련 링크
-    - Youtube : https://youtu.be/wAFL7OcHGiI
+    - 관련 게시물 : http://asq.kr/VEwFkOf1BJHe
+    - 관련 유튜브 : https://youtu.be/wAFL7OcHGiI  (2분 4초)
+  - 분야 :  Web
   - 인원 : 4인
   - 담당 : 문자열 처리, 투표수 집계
   - 사용 언어 : Python, JavaScript, HTML, CSS
-  - 상세 : 
+  - 기술 스택 : Firebase 등
   - **<span style='color:red'>웹 관련 소스코드 유실</span>**
 
   
@@ -82,10 +81,9 @@
   - 분야 :  Web
   - 인원 : 2인
   - 담당 :  Front-End, Back-End 전반
-  - 사용 언어 : JAVA, JavaScript, HTML, CSS 
-  - 기술 스택 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js
+  - 사용 언어 : Java, JavaScript, HTML, CSS 
+  - 기술 스택 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js 등
   - 협업 툴 : GitLab
-  - 상세 : 
   - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
 
@@ -97,7 +95,6 @@
   - 사용 언어 : Python
   - 기술 스택 : Slack API
   - 담당 : 크롤링, 검색 알고리즘
-  - 상세 : 
 
 <br/>
 
@@ -107,13 +104,25 @@
 
 - #### **Ranker (랭커)**
 
+  - 
+
+
+
 - #### **Chatpot (챗팟)**
+
+  - 
+
+
 
 - #### **Automobile A to Z**
 
   - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
 
+
+
 - #### **아파트 자동문 시스템**
+
+  - 
 
 <br/>
 
