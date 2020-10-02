@@ -15,7 +15,7 @@
   - UCC : https://youtu.be/my_MnjhNYkQ
   - Demo : https://youtu.be/4CNSNMSKAbE
   - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
-- 분야 : Web
+- 분야 : `Web`
 - 인원 : 5인
 - 담당 : Front-End
 - 기술 스택
@@ -35,7 +35,7 @@
 - 요약 : AI 기반 포토에디터
 - 관련 링크
   - UCC : https://youtu.be/kyyPQ6soKhM
-- 분야 : Web
+- 분야 : `Web`
 - 인원 : 6인
 - 담당 : Front-End, 객체 인식 AI 기능구현
 - 기술 스택 
@@ -56,7 +56,7 @@
 - 요약 : 일정 관리 및 공유 SNS
 - 관련 링크
   - UCC : https://youtu.be/nsqIsUYg4ZY
-- 분야 : Web
+- 분야 : `Web`
 - 인원 : 6인
 - 담당 : Front-End
 - 기술 스택 : 
@@ -77,7 +77,7 @@
 - 관련 링크
   - 관련 게시물 : http://asq.kr/VEwFkOf1BJHe
   - 관련 유튜브 : https://youtu.be/wAFL7OcHGiI (2분 4초)
-- 분야 : Web
+- 분야 : `Web`
 - 인원 : 4인
 - 담당 : 문자열 처리, 투표수 집계
 - 기술 스택 : 
@@ -91,8 +91,8 @@
 
 ### *SafeFood*
 
-- 요약 : 공공 데이터를 활용한 안전 먹거리 Web 서비스
-- 분야 : Web
+- 요약 : 공공 데이터를 활용한 안전 먹거리 서비스
+- 분야 : `Web`
 - 인원 : 2인
 - 담당 : Front-End, Back-End 전반
 - 기술 스택 : 
@@ -109,11 +109,12 @@
 ### *알려줘 로토무*
 
 - 요약 : Slack 챗봇 API를 이용한 포켓몬 도감
+- 분야 : `Chatbot`
 - 인원 : 2인 
 - 기술 스택 : 
   - 언어 : Python
-  - 기타 : Slack API, Beautiful Soup
-- 담당 : 크롤링, 검색 알고리즘 구현
+  - 기타 : Flask, Beautiful Soup, Slack API
+- 담당 : 크롤링, 문자열 파싱
 
 
 
@@ -166,7 +167,7 @@
 ### *차세대 비디오 코덱 부호화 알고리즘 (졸업작품)*
 
 - 요약 : 차세대 비디오 코덱 (VVC/H.266) 개발연구 참여
-- 분야 : Video Codec
+- 분야 : `Video Codec`
 - 인원 : 2인
 - 담당 : 화면 내 예측 참조샘플 패딩기법(RSP) 연구
 - 기술 스택
@@ -186,7 +187,7 @@
 ### *영상 전처리 알고리즘 (4학년 1학기)*
 
 - 요약 : 요구 사항에 따른 각종 영상 전처리 알고리즘 구현
-- 분야 : Image Processing
+- 분야 : `Image Processing`
 - 인원 : 1인
 - 담당 : 영상 전처리 알고리즘 구현
 - 기술 스택
@@ -210,7 +211,6 @@
 ### *신호등 시스템 (3학년 1학기)*
 
 - '디지털논리회로' 과목 텀 프로젝트
-- **<span style="color:red">소스코드 유실</span>**
 
 
 
