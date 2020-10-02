@@ -15,18 +15,19 @@
 
 - #### **아로새김**
 
-  - 요약 : 위치기반 추억 새김 및 공유 SNS  
+  - 요약 : 위치기반 추억 새김 및 공유 SNS 
   - 관련 링크
     - UCC : https://youtu.be/my_MnjhNYkQ
     - Demo : https://youtu.be/4CNSNMSKAbE
     - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
   - 분야 : Web
   - 인원 : 5인
-  - 담당 :  Front-End
+  - 담당 : Front-End
   - 사용 언어 : Java, JavaScript, HTML, CSS
   - 기술 스택 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
-  - 협업 툴 : GitLab, Jira, Notion, Webex, Zoom 
-  - 결과 : SSAFY 심화 프로젝트 우수상 수상
+  - 활용 툴 : GitLab, Jira, Notion, Webex, Zoom 
+  - 결과 
+    - SSAFY 심화 프로젝트 우수상 수상
 
 
 
@@ -35,13 +36,15 @@
   - 요약 : AI 기반 포토에디터
   - 관련 링크
     - UCC : https://youtu.be/kyyPQ6soKhM
-  - 분야 :  Web
+  - 분야 : Web
   - 인원 : 6인
   - 담당 : Front-End, 객체 인식 AI 기능구현
   - 사용 언어 : Python, JavaScript, HTML, CSS
   - 기술 스택 : React, AWS, Flask, Tensorflow 등
-  - 협업 툴 : GitLab, Jira, Zoom
-  - 결과 : SSAFY 특화 프로젝트 우수상, UCC 우수상 수상
+  - 활용 툴 : GitLab, Jira, Zoom
+  - 결과 
+    - SSAFY 특화 프로젝트 우수상
+    - SSAFY 특화 프로젝트 UCC 우수상 수상
 
 <br/>
 
@@ -50,13 +53,14 @@
   - 요약 : 일정 관리 및 공유 SNS
   - 관련 링크
     - UCC : https://youtu.be/nsqIsUYg4ZY
-  - 분야 :  Web
+  - 분야 : Web
   - 인원 : 6인
   - 담당 : Front-End
   - 사용 언어 : Java, JavaScript, TypeScript, HTML, CSS
   - 기술 스택 : React, AWS, Spring boot, JPA, MySQL 등
-  - 협업 툴 : GitLab, Jira
-  - 결과 : SSAFY 공통 프로젝트 우수상
+  - 활용 툴 : GitLab, Jira
+  - 결과
+    - SSAFY 공통 프로젝트 우수상
 
 <br/>
 
@@ -65,8 +69,8 @@
   - 요약 : 자이언트 펭TV 베스트 커플 투표 집계
   - 관련 링크
     - 관련 게시물 : http://asq.kr/VEwFkOf1BJHe
-    - 관련 유튜브 : https://youtu.be/wAFL7OcHGiI  (2분 4초)
-  - 분야 :  Web
+    - 관련 유튜브 : https://youtu.be/wAFL7OcHGiI (2분 4초)
+  - 분야 : Web
   - 인원 : 4인
   - 담당 : 문자열 처리, 투표수 집계
   - 사용 언어 : Python, JavaScript, HTML, CSS
@@ -78,12 +82,12 @@
 - #### **SafeFood**
   
   - 요약 : 공공 데이터를 활용한 안전 먹거리 Web 서비스
-  - 분야 :  Web
+  - 분야 : Web
   - 인원 : 2인
-  - 담당 :  Front-End, Back-End 전반
+  - 담당 : Front-End, Back-End 전반
   - 사용 언어 : Java, JavaScript, HTML, CSS 
   - 기술 스택 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js 등
-  - 협업 툴 : GitLab
+  - 활용 툴 : GitLab
   - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
 <br/>
@@ -94,7 +98,7 @@
   - 인원 : 2인
   - 사용 언어 : Python
   - 기술 스택 : Slack API
-  - 담당 : 크롤링, 검색 알고리즘
+  - 담당 : 크롤링, 검색 알고리즘 구현
 
 <br/>
 
@@ -131,14 +135,29 @@
 ### 대학교
 
 - #### **차세대 비디오 코덱 부호화 알고리즘** (졸업작품)
-  
-  - 
+
+  - 요약 : 차세대 비디오 코덱 (VVC/H.266) 개발연구 참여
+  - 분야 : Video Codec
+  - 인원 : 2인
+  - 담당 : 화면 내 예측 참조샘플 패딩기법(RSP) 연구
+  - 사용 언어 : C, C++
+  - 활용 툴 : BitstreamAnalyzer
+  - 결과 : 
+    - 2017년 대한전자공학회 하계종합학술대회 논문집에 기재 (p.841 ~ 842)
+    - 1학기 A+
+    - 2학기 A0
 
 <br/>
 
 - #### **영상 전처리 알고리즘** (4학년 1학기)
 
-  - '영상처리' 과목 텀 프로젝트
+  - 요약 : 요구 사항에 따른 각종 영상 전처리 알고리즘 구현
+  - 분야 : Image Processing
+  - 인원 : 1인
+  - 담당 : 영상 전처리 알고리즘 구현
+  - 사용 언어 : Matlab
+  - 결과
+    - B+
 
 <br/>
 
