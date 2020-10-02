@@ -144,9 +144,21 @@
 
 ---
 
-### *Chatpot (챗팟)*
+### *ChatPot (챗팟)*
 
-- 
+- 요약 : 커뮤니케이션 기능이 탑제된 3세대 스마트화분
+- 관련 링크
+  - Demo : https://youtu.be/gO0HlUTi7-4
+- 분야 : `IoT`
+- 인원 : 5인
+- 담당 : 채팅엔진 개발
+- 기술 스택
+  - 언어 : Java, Python, XML
+  - 기타 : RsapberryPi, Android
+- 활용 툴
+  - Google Drive
+- 결과
+  - 반 내 1등
 
 
 
