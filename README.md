@@ -26,9 +26,9 @@
 - 결과
   - SSAFY 심화 프로젝트 우수상 수상
 
+
+
 ---
-
-
 
 ### *AIditor (아이디터)*
 
@@ -47,9 +47,9 @@
   - SSAFY 특화 프로젝트 우수상
   - SSAFY 특화 프로젝트 UCC 우수상 수상
 
+
+
 ---
-
-
 
 ### *Shalender (쉘린더)*
 
@@ -59,7 +59,6 @@
 - 분야 : Web
 - 인원 : 6인
 - 담당 : Front-End
-- 사용 언어 : 
 - 기술 스택 : 
   - 언어 : Java, JavaScript, TypeScript, HTML, CSS
   - 기타 : React, AWS, Spring boot, JPA, MySQL 등
@@ -68,9 +67,9 @@
 - 결과
   - SSAFY 공통 프로젝트 우수상
 
+
+
 ---
-
-
 
 ### *펭TV 파자마 어워드 베스트 커플 투표 집계*
 
@@ -86,9 +85,9 @@
   - 기타 : Firebase, Beautiful Soup, Selenium
 - **<span style='color:red'>웹 관련 소스코드 유실</span>**
 
+
+
 ---
-
-
 
 ### *SafeFood*
 
@@ -98,16 +97,16 @@
 - 담당 : Front-End, Back-End 전반
 - 기술 스택 : 
   - 언어 : Java, JavaScript, HTML, CSS 
-  - 기타 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js 등
+  - 기타 : Spring, Spring Boot, JSP, jQuery, Vue.js, MySQL 등
 - 활용 툴
   - Git
 - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
+
+
 ---
 
-
-
-### *도와줘 로토무*
+### *알려줘 로토무*
 
 - 요약 : Slack 챗봇 API를 이용한 포켓몬 도감
 - 인원 : 2인 
@@ -115,6 +114,8 @@
   - 언어 : Python
   - 기타 : Slack API, Beautiful Soup
 - 담당 : 크롤링, 검색 알고리즘 구현
+
+
 
 ---
 
@@ -128,29 +129,31 @@
 
 - 
 
+
+
 ---
-
-
 
 ### *Chatpot (챗팟)*
 
 - 
 
+
+
 ---
-
-
 
 ### *Automobile A to Z*
 
 - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
 
+
+
 ---
-
-
 
 ### *아파트 자동문 시스템*
 
 - 
+
+
 
 ---
 
@@ -176,9 +179,9 @@
   - 1학기 A+
   - 2학기 A0
 
+
+
 ---
-
-
 
 ### *영상 전처리 알고리즘 (4학년 1학기)*
 
@@ -191,40 +194,42 @@
 - 결과
   - B+
 
+
+
 ---
-
-
 
 ### *Ultrasonic Ruler (3학년 2학기)*
 
 - '하드웨어설계' 과목 텀 프로젝트
 - **<span style="color:red">소스코드 일부 유실</span>**
 
+
+
 ---
-
-
 
 ### *신호등 시스템 (3학년 1학기)*
 
 - '디지털논리회로' 과목 텀 프로젝트
 - **<span style="color:red">소스코드 유실</span>**
 
+
+
 ---
-
-
 
 ### *LED 애니메이션 패턴 (2학년 2학기)*
 
 - '디지털시스템공학' 과목 텀 프로젝트
 
+
+
 ---
-
-
 
 ### *라인트레이서 (1학년 2학기)*
 
 - '기초공학설계' 과목 텀 프로젝트
 - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
+
+
 
 ---
 
