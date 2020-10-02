@@ -1,7 +1,7 @@
 # MyProjects (작성중)
 
 - 대학시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 파일을 저장한 Repository입니다.
-  - <span style="color:red">파일 전체가 유실된 프로젝트는 업로드 하지않음.</span>
+  - <span style="color:red">목록에는 있으나 파일 전체가 유실된 프로젝트는 업로드 하지않음.</span>
 
 <br/>
 
@@ -43,7 +43,7 @@
   - 협업 툴 : GitLab, Jira, Zoom
   - 결과 : SSAFY 특화 프로젝트 우수상, UCC 우수상 수상
 
-
+<br/>
 
 - #### **Shalender (쉘린더)**
 
@@ -58,7 +58,7 @@
   - 협업 툴 : GitLab, Jira
   - 결과 : SSAFY 공통 프로젝트 우수상
 
-
+<br/>
 
 - #### **펭TV 파자마 어워드 베스트 커플 투표 집계** 
 
@@ -70,10 +70,10 @@
   - 인원 : 4인
   - 담당 : 문자열 처리, 투표수 집계
   - 사용 언어 : Python, JavaScript, HTML, CSS
-  - 기술 스택 : Firebase 등
+  - 기술 스택 : Firebase, Beautiful Soup, Selenium
   - **<span style='color:red'>웹 관련 소스코드 유실</span>**
 
-  
+<br/>
 
 - #### **SafeFood**
   
@@ -86,7 +86,7 @@
   - 협업 툴 : GitLab
   - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
-
+<br/>
 
 - #### **도와줘 로토무**
 
@@ -106,19 +106,19 @@
 
   - 
 
-
+<br/>
 
 - #### **Chatpot (챗팟)**
 
   - 
 
-
+<br/>
 
 - #### **Automobile A to Z**
 
   - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
 
-
+<br/>
 
 - #### **아파트 자동문 시스템**
 
@@ -134,36 +134,37 @@
   
   - 
 
-
+<br/>
 
 - #### **영상 전처리 알고리즘** (4학년 1학기)
 
   - '영상처리' 과목 텀 프로젝트
 
-
+<br/>
 
 - #### **Ultrasonic Ruler** (3학년 2학기)
   
   - '하드웨어설계' 과목 텀 프로젝트
   - **<span style="color:red">소스코드 일부 유실</span>**
 
-
+<br/>
 
 - #### **신호등 시스템** (3학년 1학기)
 
   - '디지털논리회로' 과목 텀 프로젝트
   - **<span style="color:red">소스코드 유실</span>**
 
-
+<br/>
 
 - #### **LED 애니메이션 패턴 (2학년 2학기)**
 
   - '디지털시스템공학' 과목 텀 프로젝트
 
-
+<br/>
 
 - #### **라인트레이서** (1학년 2학기)
 
   - '기초공학설계' 과목 텀 프로젝트
   - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
 
+<br/>
