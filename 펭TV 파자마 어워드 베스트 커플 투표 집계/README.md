@@ -63,15 +63,17 @@
 
 #### 관련 링크
 
-- 결과물 : https://giantpengsoo-c0568.firebaseapp.com/ 
-  (중앙에 돋보기 클릭 후 숫자 0 입력, 현재는 결과물 상태가 온전치 않음)
+- 결과물 : https://giantpengsoo-c0568.firebaseapp.com/
+(중앙에 돋보기 클릭 후 숫자 0 입력, 현재는 결과물 상태가 온전치 않음)
 - YouTube
   - http://asq.kr/VEwFkOf1BJHe (댓글 투표 게시물)
   - https://youtu.be/wAFL7OcHGiI (‘자이언트 펭TV’ Ep.86)
 
 ---
+<div style="text-align:center">
+<img src="readme_img/image-20201002163337468.png" alt="image-20201002163337468" style="zoom:150%;" />
 
-![image-20201002163337468](readme_img/image-20201002163337468.png)
+<img src="readme_img/image-20201002163352811.png" alt="image-20201002163352811" style="zoom:150%;" />
 
-![image-20201002163352811](readme_img/image-20201002163352811.png)
+<div/>
 
