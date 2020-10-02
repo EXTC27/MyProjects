@@ -63,7 +63,7 @@
 
 #### 관련 링크
 
-- 결과물 : https://giantpengsoo-c0568.firebaseapp.com/ 
+- 결과물 : https://giantpengsoo-c0568.firebaseapp.com/ <br/>
 (중앙에 돋보기 클릭 후 숫자 0 입력, 현재는 결과물 상태가 온전치 않음)
 - YouTube
   - http://asq.kr/VEwFkOf1BJHe (댓글 투표 게시물)
