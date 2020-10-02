@@ -22,7 +22,7 @@
   - 언어 : Java, JavaScript, HTML, CSS
   - 기타 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
 - 활용 툴
-  - GitLab, Jira, Notion, Webex, Zoom 
+  - Git, Jira, Notion, Webex, Zoom 
 - 결과
   - SSAFY 심화 프로젝트 우수상 수상
 
@@ -42,7 +42,7 @@
   - 언어 : Python, JavaScript, HTML, CSS
   - 기타 : React, AWS, Flask, Tensorflow 등
 - 활용 툴
-  - GitLab, Jira, Zoom
+  - Git, Jira, Zoom
 - 결과 
   - SSAFY 특화 프로젝트 우수상
   - SSAFY 특화 프로젝트 UCC 우수상 수상
@@ -64,7 +64,7 @@
   - 언어 : Java, JavaScript, TypeScript, HTML, CSS
   - 기타 : React, AWS, Spring boot, JPA, MySQL 등
 - 활용 툴
-  - GitLab, Jira
+  - Git, Jira
 - 결과
   - SSAFY 공통 프로젝트 우수상
 
@@ -100,7 +100,7 @@
   - 언어 : Java, JavaScript, HTML, CSS 
   - 기타 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js 등
 - 활용 툴
-  - GitLab
+  - Git
 - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
 ---
