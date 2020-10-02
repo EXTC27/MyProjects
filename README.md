@@ -11,30 +11,19 @@
 ### *아로새김*
 
 - 요약 : 위치기반 추억 새김 및 공유 SNS 
-
 - 관련 링크
   - UCC : https://youtu.be/my_MnjhNYkQ
   - Demo : https://youtu.be/4CNSNMSKAbE
   - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
-  
 - 분야 : Web
-
 - 인원 : 5인
-
 - 담당 : Front-End
-
 - 기술 스택
-
   - 언어 : Java, JavaScript, HTML, CSS
-
   - 기타 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
-
 - 활용 툴
-
   - GitLab, Jira, Notion, Webex, Zoom 
-
-- 결과 
-
+- 결과
   - SSAFY 심화 프로젝트 우수상 수상
 
 ---
@@ -107,7 +96,6 @@
 - 분야 : Web
 - 인원 : 2인
 - 담당 : Front-End, Back-End 전반
-- 사용 언어 : 
 - 기술 스택 : 
   - 언어 : Java, JavaScript, HTML, CSS 
   - 기타 : Spring, Spring Boot, Mybatis, Tomcat, JSP, Vue.js 등
