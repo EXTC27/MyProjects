@@ -1,8 +1,9 @@
 # 수행 프로젝트 목록 (작성중)
 
 - 대학시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 파일을 저장한 Repository입니다.
-  - <span style="color:red">**목록에는 있으나 파일 전체가 유실된 프로젝트는 업로드 하지않음.**</span>
+  - <span style="color:red">**목록에는 있으나 파일 전체가 유실된 프로젝트는 업로드 하지않았습니다.**</span>
 - 해당 목록은 **가장 최근에 진행한 순서**대로 작성하였습니다.
+- 시간의 경과로 상세한 기억이 많이 없어진 경우에는 자료를 기반으로 간략하게나마 작성하였습니다.
 
 <br/>
 
@@ -17,7 +18,7 @@
   - Notion : https://www.notion.so/SSAFY02-3-1c657120318b4d31b76803d4f24eed08
 - 분야 : `Web`
 - 인원 : 5인
-- 담당 : Front-End
+- 담당 : Front-end
 - 기술 스택
   - 언어 : Java, JavaScript, HTML, CSS
   - 기타 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
@@ -37,7 +38,7 @@
   - UCC : https://youtu.be/kyyPQ6soKhM
 - 분야 : `Web`
 - 인원 : 6인
-- 담당 : Front-End, 객체 인식 AI 기능구현
+- 담당 : Front-end, 객체 인식 AI 기능구현
 - 기술 스택 
   - 언어 : Python, JavaScript, HTML, CSS
   - 기타 : React, AWS, Flask, Tensorflow 등
@@ -58,7 +59,7 @@
   - UCC : https://youtu.be/nsqIsUYg4ZY
 - 분야 : `Web`
 - 인원 : 6인
-- 담당 : Front-End
+- 담당 : Front-end
 - 기술 스택 : 
   - 언어 : Java, JavaScript, TypeScript, HTML, CSS
   - 기타 : React, AWS, Spring boot, JPA, MySQL 등
@@ -75,6 +76,7 @@
 
 - 요약 : 자이언트 펭TV 베스트 커플 투표 집계
 - 관련 링크
+  - 결과물 : https://giantpengsoo-c0568.firebaseapp.com/
   - 관련 게시물 : http://asq.kr/VEwFkOf1BJHe
   - 관련 유튜브 : https://youtu.be/wAFL7OcHGiI (2분 4초)
 - 분야 : `Web`
@@ -94,7 +96,7 @@
 - 요약 : 공공 데이터를 활용한 안전 먹거리 서비스
 - 분야 : `Web`
 - 인원 : 2인
-- 담당 : Front-End, Back-End 전반
+- 담당 : Front-end, Back-end전반
 - 기술 스택 : 
   - 언어 : Java, JavaScript, HTML, CSS 
   - 기타 : Spring, Spring Boot, JSP, jQuery, Vue.js, MySQL 등
@@ -128,7 +130,15 @@
 
 ### *Ranker (랭커)*
 
-- 
+- 요약 : 사소하고 다양한 주제에 관해 순위를 정하는 커뮤니티 사이트 
+- 관련 링크
+  - 프로토타입 : https://sjsquare-ranker.herokuapp.com/users/sign_in
+- 분야 : `Web`
+- 인원 : 2인
+- 담당 : Back-end
+- 기술 스택
+  - 언어 : Ruby, JavaScript, HTML, CSS
+  - 기타 : Ruby on Rails, Bootstrap, Heroku
 
 
 
