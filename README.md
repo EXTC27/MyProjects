@@ -21,7 +21,7 @@
 - 담당 : Front-end
 - 기술 스택
   - 언어 : Java, JavaScript, HTML, CSS
-  - 기타 : React, AWS, Spring boot, JPA, Docker, MariaDB 등
+  - 기타 : React, AWS, Spring Boot, JPA, Docker, MariaDB 등
 - 활용 툴
   - Git, Jira, Notion, Webex, Zoom 
 - 결과
@@ -41,7 +41,7 @@
 - 담당 : Front-end, 객체 인식 AI 기능구현
 - 기술 스택 
   - 언어 : Python, JavaScript, HTML, CSS
-  - 기타 : React, AWS, Flask, Tensorflow 등
+  - 기타 : React, AWS, Flask, TensorFlow 등
 - 활용 툴
   - Git, Jira, Zoom
 - 결과 
@@ -62,7 +62,7 @@
 - 담당 : Front-end
 - 기술 스택 : 
   - 언어 : Java, JavaScript, TypeScript, HTML, CSS
-  - 기타 : React, AWS, Spring boot, JPA, MySQL 등
+  - 기타 : React, AWS, Spring Boot, JPA, MySQL 등
 - 활용 툴
   - Git, Jira
 - 결과
@@ -223,12 +223,13 @@
 
 ### *영상 전처리 알고리즘 (4학년 1학기)*
 
-- 요약 : 요구 사항에 따른 각종 영상 전처리 알고리즘 구현
+- 요약 : 요구 사항에 따른 각종 영상 전처리 알고리즘 구현 ('영상처리' 학기말 프로젝트)
+
 - 분야 : `Image Processing`
 - 인원 : 1인
 - 담당 : 영상 전처리 알고리즘 구현
 - 기술 스택
-  - Matlab
+  - 언어 : MATLAB
 - 결과
   - B+
 
@@ -238,21 +239,37 @@
 
 ### *Ultrasonic Ruler (3학년 2학기)*
 
-- '하드웨어설계' 과목 텀 프로젝트
+- 요약 : 초음파 센서를 이용한 거리 측정 프로그램 ('전자 HW 설계' 학기말 프로젝트)
+- 분야 : `Embedded`
+- 인원 : 2인
+- 담당 : 입출력 제어, 필터 설계, GUI 제작
+- 기술 스택
+  - 언어 : C, MATLAB
+  - 기타 : Quartus II, Altera DE1-SoC
+- 결과
+  - 필터 자체 제작하라고해서 제작했더니, 자체 제작 안한 팀들보다 오차가 많이 난다고 C+ 받음. 이게 천추의 한임.
 
 
 
 ---
 
-### *신호등 시스템 (3학년 1학기)*
+### *Traffic Light Logic (3학년 1학기)*
 
-- '디지털논리회로' 과목 텀 프로젝트
+- 요약 : 사거리 횡단보도 신호등 로직 설계 및 시뮬레이션 ('디지털 논리회로' 학기말 프로젝트)
+- 분야 : `Digital Logic`
+- 인원 : 1인
+- 담당 : 신호등 시스템 구현, 시뮬레이션
+- 기술 스택
+  - 언어 : Verilog
+  - 기타 : Quartus II, ModelSim
+- 결과
+  - B+
 
 
 
 ---
 
-### *LED 애니메이션 패턴 (2학년 2학기)*
+### *LED Animation (2학년 2학기)*
 
 - '디지털시스템공학' 과목 텀 프로젝트
 
@@ -260,7 +277,7 @@
 
 ---
 
-### *라인트레이서 (1학년 2학기)*
+### *Line Tracer (1학년 2학기)*
 
 - '기초공학설계' 과목 텀 프로젝트
 - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
