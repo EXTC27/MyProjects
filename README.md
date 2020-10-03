@@ -167,6 +167,15 @@
 ### *Automobile A to Z*
 
 - **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
+- 요약 : HW를 활용한 운전자 인증 및 자동차 주행 기능 구현
+- 관련 링크
+  - Demo : https://youtu.be/coqKB23xxns
+- 분야 : `Embedded`
+- 인원 : 2인
+- 담당 : 주행 관련 기능 구현
+- 기술 스택
+  - 언어 : C
+  - 기타 : Cortex-M4
 
 
 
@@ -174,7 +183,13 @@
 
 ### *아파트 공동현관 시스템*
 
-- 
+- 요약 : HW를 활용한 아파트 공동현관 시스템 구현
+- 분야 : `Embedded`
+- 인원 : 1인
+- 담당 : 전 기능 구현
+- 기술 스택
+  - 언어 : Python
+  - 기타 : Raspberry Pi 3
 
 
 
