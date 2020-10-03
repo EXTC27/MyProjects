@@ -1,0 +1,21 @@
+module term(
+input wire clk,
+output wire [6:0] HEXa0,HEXa1,HEXa2,
+input wire reset);
+
+reg[24:0] counter0; reg[3:0] counter1;
+
+always @(posedge clk)
+if(reset) counter0<=25'b0;
+else counter0<=counter0+25'b1;
+
+always @(posedge clk)
+if(reset) counter1<=4'b0;
+else if(~|counter0) 
+counter1<=counter1+4'b1;
+
+DEC0 U0(.i(counter1),.o(HEXa0));
+DEC1 U1(.i(counter1),.o(HEXa1));
+DEC2 U3(.i(counter1),.o(HEXa2));
+
+endmodule
