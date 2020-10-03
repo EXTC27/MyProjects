@@ -20,10 +20,10 @@
 - 인원 : 5인
 - 담당 : Front-end
 - 기술 스택
-  - 언어 : Java, JavaScript, HTML, CSS
-  - 기타 : React, AWS, Spring Boot, JPA, Docker, MariaDB 등
+  - 언어 : `Java`, `JavaScript`, `HTML`, `CSS`
+  - 기타 : `React`, `AWS`, `Spring Boot`, `JPA`, `Docker`, `MariaDB` 등
 - 활용 툴
-  - Git, Jira, Notion, Webex, Zoom 
+  - `Git`, `Jira`, `Notion`, `Webex`, `Zoom` 
 - 결과
   - SSAFY 심화 프로젝트 우수상 수상
 
@@ -41,9 +41,9 @@
 - 담당 : Front-end, 객체 인식 AI 기능구현
 - 기술 스택 
   - 언어 : Python, JavaScript, HTML, CSS
-  - 기타 : React, AWS, Flask, TensorFlow 등
+  - 기타 : `React`, `AWS`, `Flask`, `TensorFlow` 등
 - 활용 툴
-  - Git, Jira, Zoom
+  - `Git`, `Jira`, `Zoom`
 - 결과 
   - SSAFY 특화 프로젝트 우수상
   - SSAFY 특화 프로젝트 UCC 우수상 수상
@@ -61,10 +61,10 @@
 - 인원 : 6인
 - 담당 : Front-end
 - 기술 스택 : 
-  - 언어 : Java, JavaScript, TypeScript, HTML, CSS
-  - 기타 : React, AWS, Spring Boot, JPA, MySQL 등
+  - 언어 : `Java`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+  - 기타 : `React`, `AWS`, `Spring Boot`, `JPA`, `MySQL` 등
 - 활용 툴
-  - Git, Jira
+  - `Git`, `Jira`
 - 결과
   - SSAFY 공통 프로젝트 우수상
 
@@ -83,8 +83,8 @@
 - 인원 : 4인
 - 담당 : 문자열 처리, 투표수 집계
 - 기술 스택 : 
-  - 언어 : Python, JavaScript, HTML, CSS
-  - 기타 : Firebase, Beautiful Soup, Selenium
+  - 언어 : `Python`, `JavaScript`, `HTML`, `CSS`
+  - 기타 : `Firebase`, `Beautiful Soup`, `Selenium`
 - **<span style='color:red'>웹 관련 소스코드 유실</span>**
 
 
@@ -98,10 +98,10 @@
 - 인원 : 2인
 - 담당 : Front-end, Back-end전반
 - 기술 스택 : 
-  - 언어 : Java, JavaScript, HTML, CSS 
-  - 기타 : Spring, Spring Boot, JSP, jQuery, Vue.js, MySQL 등
+  - 언어 : `Java`, `JavaScript`, `HTML`, `CSS` 
+  - 기타 : `Spring`, `Spring Boot`, `JSP`, `jQuery`, `Vue.js`, `MySQL` 등
 - 활용 툴
-  - Git
+  - `Git`
 - **<span style="color:red">'삼성 청년 SW 아카데미 (SSAFY)' 보안 규정으로 인해 파일은 업로드 하지 않음.</span>**
 
 
@@ -114,8 +114,8 @@
 - 분야 : `Chatbot`
 - 인원 : 2인 
 - 기술 스택 : 
-  - 언어 : Python
-  - 기타 : Flask, Beautiful Soup, Slack API
+  - 언어 : `Python`
+  - 기타 : `Flask`, `Beautiful Soup`, `Slack API`
 - 담당 : 크롤링, 문자열 파싱
 
 
@@ -137,8 +137,8 @@
 - 인원 : 2인
 - 담당 : Back-end
 - 기술 스택
-  - 언어 : Ruby, JavaScript, HTML, CSS
-  - 기타 : Ruby on Rails, Bootstrap, Heroku
+  - 언어 : `Ruby`, `JavaScript`, `HTML`, `CSS`
+  - 기타 : `Ruby on Rails`, `Bootstrap`, `Heroku`
 
 
 
@@ -153,12 +153,12 @@
 - 인원 : 5인
 - 담당 : 채팅엔진 개발
 - 기술 스택
-  - 언어 : Java, Python, XML
-  - 기타 : RsapberryPi, Android
+  - 언어 : `Java`, `Python`, `XML`
+  - 기타 : `Rsapberry Pi 3`, `Android`
 - 활용 툴
-  - Google Drive
+  - `Google Drive`
 - 결과
-  - 반 내 1등
+  - 강사님 평가와 교육생들 투표로 반 내 1등
 
 
 
@@ -173,8 +173,8 @@
 - 인원 : 2인
 - 담당 : 주행 관련 기능 구현
 - 기술 스택
-  - 언어 : C
-  - 기타 : Cortex-M4
+  - 언어 : `C`
+  - 기타 : `HAL`, `Cortex-M4`
 - **<span style="color:red">소스코드 유실</span>**
 
 
@@ -188,8 +188,8 @@
 - 인원 : 1인
 - 담당 : 전 기능 구현
 - 기술 스택
-  - 언어 : Python
-  - 기타 : Raspberry Pi 3
+  - 언어 : `Python`
+  - 기타 : `Raspberry Pi 3`
 
 
 
@@ -208,10 +208,10 @@
 - 인원 : 2인
 - 담당 : 화면 내 예측 참조샘플 패딩기법(RSP) 연구
 - 기술 스택
-  - 언어 : C, C++
-  - 기타 : JEM (Joint Exploration Model)
+  - 언어 : `C`, `C++`
+  - 기타 : `JEM (Joint Exploration Model)`
 - 활용 툴
-  - BitstreamAnalyzer
+  - `BitstreamAnalyzer`
 - 결과 : 
   - 2017년 대한전자공학회 하계종합학술대회 논문집에 기재 (p.841 ~ 842)
   - 1학기 A+
@@ -229,7 +229,7 @@
 - 인원 : 1인
 - 담당 : 영상 전처리 알고리즘 구현
 - 기술 스택
-  - 언어 : MATLAB
+  - 언어 : `MATLAB`
 - 결과
   - B+
 
@@ -239,13 +239,13 @@
 
 ### *Ultrasonic Ruler (3학년 2학기)*
 
-- 요약 : 초음파 센서를 이용한 거리 측정 프로그램 ('전자 HW 설계' 학기말 프로젝트)
+- 요약 : 초음파 센서를 이용한 거리 측정 프로그램 ('전자HW설계' 학기말 프로젝트)
 - 분야 : `Embedded`
 - 인원 : 2인
 - 담당 : 입출력 제어, 필터 설계, GUI 제작
 - 기술 스택
-  - 언어 : C, MATLAB
-  - 기타 : Quartus II, Altera DE1-SoC
+  - 언어 : `C`, `MATLAB`
+  - 기타 : `Quartus II`, `Altera DE1-SoC`
 - 결과
   - 필터 자체 제작하라고해서 제작했더니, 자체 제작 안한 팀들보다 오차가 많이 난다고 C+ 받음. 이게 천추의 한임.
 
@@ -255,13 +255,13 @@
 
 ### *Traffic Light Logic (3학년 1학기)*
 
-- 요약 : 사거리 횡단보도 신호등 로직 설계 및 시뮬레이션 ('디지털 논리회로' 학기말 프로젝트)
+- 요약 : 사거리 횡단보도 신호등 로직 설계 및 시뮬레이션 ('디지털논리회로' 학기말 프로젝트)
 - 분야 : `Digital Logic`
 - 인원 : 1인
-- 담당 : 신호등 시스템 구현, 시뮬레이션
+- 담당 : 신호등 로직 구현, 시뮬레이션
 - 기술 스택
-  - 언어 : Verilog
-  - 기타 : Quartus II, ModelSim
+  - 언어 : `Verilog`
+  - 기타 : `Quartus II`, `ModelSim`
 - 결과
   - B+
 
@@ -271,7 +271,15 @@
 
 ### *LED Animation (2학년 2학기)*
 
-- '디지털시스템공학' 과목 텀 프로젝트
+- 요약 : 7 Segment와 LED를 활용한 애니메이션 패턴 제작 ('디지털시스템설계' 학기말 프로젝트)
+- 분야 : `Embedded`
+- 인원 : 3인
+- 담당 : 애니메이션 패턴 제어, 리모콘 연동, 테스트
+- 기술 스택
+  - 언어 : `Verilog`
+  - 기타 : `Quartus II`, `ModelSim`, `Altera DE1-SoC`
+- 결과
+  - C+ (세상을 넓고 능력자들은 많았다...)
 
 
 
@@ -279,10 +287,16 @@
 
 ### *Line Tracer (1학년 2학기)*
 
-- '기초공학설계' 과목 텀 프로젝트
-- **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
-
-
+- 요약 : 검은색 선을 따라 주행하는 RC카 제작 ('기초공학설계' 학기말 프로젝트)
+- 분야 : `Embedded`
+- 인원 : 4인
+- 담당 : 조립, 방향 전환 및 루트탐색 제어
+- 기술 스택
+  - 언어 : `C`
+  - 기타 : `Arduino`
+- 결과
+  - A0 (반 내 최단시간 완주)
+- **<span style='color:red'>모든 자료 유실로 업로드 하지 않음</span>**
 
 ---
 
