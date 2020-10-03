@@ -166,7 +166,6 @@
 
 ### *Automobile A to Z*
 
-- **<span style="color:red">모든 파일 유실로 인해 업로드 하지않음</span>**
 - 요약 : HW를 활용한 운전자 인증 및 자동차 주행 기능 구현
 - 관련 링크
   - Demo : https://youtu.be/coqKB23xxns
@@ -176,6 +175,7 @@
 - 기술 스택
   - 언어 : C
   - 기타 : Cortex-M4
+- **<span style="color:red">소스코드 유실</span>**
 
 
 
@@ -239,7 +239,6 @@
 ### *Ultrasonic Ruler (3학년 2학기)*
 
 - '하드웨어설계' 과목 텀 프로젝트
-- **<span style="color:red">소스코드 일부 유실</span>**
 
 
 
