@@ -1,9 +1,11 @@
-# 수행 프로젝트 목록 (작성중)
+# 수행 프로젝트 목록
 
 - 대학시절부터 SSAFY까지 진행했던 **모든 SW 관련 프로젝트**들의 파일을 저장한 Repository입니다.
   - <span style="color:red">**목록에는 있으나 파일 전체가 유실된 프로젝트는 업로드 하지않았습니다.**</span>
 - 해당 목록은 **가장 최근에 진행한 순서**대로 작성하였습니다.
 - 시간의 경과로 상세한 기억이 많이 없어진 경우에는 자료를 기반으로 간략하게나마 작성하였습니다.
+- **포트폴리오 링크**
+  - https://drive.google.com/file/d/1j_YVboZGzbTle8oo0Ht7Qvve03YH_ycw/view?usp=sharing
 
 <br/>
 
