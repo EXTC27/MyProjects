@@ -1,3 +1,3 @@
-# LED 애니매이션 패턴
+# LED Animation (작성예정)
 
 - 
