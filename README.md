@@ -5,7 +5,7 @@
 - 해당 목록은 **가장 최근에 진행한 순서**대로 작성하였습니다.
 - 시간의 경과로 상세한 기억이 많이 없어진 경우에는 자료를 기반으로 간략하게나마 작성하였습니다.
 - **포트폴리오 링크 (Portfolio)** 
-  - https://drive.google.com/file/d/190MWBG_XJGBD5um8ze7nYy1s-fa7lRdk/view?usp=sharing
+  - http://asq.kr/wFhnUBq4cMsAr
 
 <br/>
 
