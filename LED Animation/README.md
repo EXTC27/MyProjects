@@ -1,3 +1,1 @@
-# LED Animation (작성예정)
-
-- 
+# LED Animation
