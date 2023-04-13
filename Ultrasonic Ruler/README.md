@@ -1,3 +1,1 @@
-# Ultrasonic Ruler (작성예정)
-
-- 
+# Ultrasonic Ruler
